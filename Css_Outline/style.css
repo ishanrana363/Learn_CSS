@@ -1,0 +1,11 @@
+#first-div{
+    width: 400px;
+    height: 400px;
+    background:rgb(225, 211, 239);
+    ;margin: 100px auto;
+    border: 5px solid black ;
+    outline-width: 10px;
+    outline-color: red;
+    outline-style:outset;
+    outline-offset: 20px;
+}
