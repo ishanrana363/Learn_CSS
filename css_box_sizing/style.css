@@ -1,0 +1,16 @@
+#div-1{
+    width: 400px;
+    height: 200px;
+    background: gray;
+    margin: 30px auto;
+    padding: 30px;
+    border: 20px solid black;
+    box-sizing: border-box;
+}
+
+#div-2{
+    width: 400px;
+    height: 200px;
+    margin: 30px auto;
+    background: rgb(237, 176, 176);
+}
